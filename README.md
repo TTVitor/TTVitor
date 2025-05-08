@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou formado em **Ciências da Computação** com título de Bacharel, apaixonado por tecnologia, aprendizado contínuo e inovação. Tenho interesse em áreas como **Cloud Computing**, **Banco de Dados** e **Qualidade de Software**.  
+Sou formado em **Ciências da Computação** com título de Bacharel, apaixonado por tecnologia, aprendizado contínuo e inovação. Tenho interesse em áreas como **Cloud Computing**, **Banco de Dados** e **Qualidade de Software**. Sou natural de Brasília - DF. Tenho experiência de 6 meses até o momento de Suporte Técnico, algumas certificações e facilidade em linguagens como C, Java e WEB.   
 Estou sempre buscando aprender novas ferramentas e linguagens para me tornar um profissional mais completo e preparado para os desafios do mercado de tecnologia.
 
 ---
