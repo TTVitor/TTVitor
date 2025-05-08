@@ -29,10 +29,13 @@ Estou sempre buscando aprender novas ferramentas e linguagens para me tornar um 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Ferramentas e Outras Tecnologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
@@ -42,5 +45,15 @@ Estou sempre buscando aprender novas ferramentas e linguagens para me tornar um 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTVitor&layout=compact&theme=dracula)
 
 ---
+
+## 📊 Tecnologias mais utilizadas (estimativa com base nos repositórios)
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-35%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-20%25-339933?style=flat&logo=node.js&logoColor=white)
+- ![React](https://img.shields.io/badge/React-15%25-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Java](https://img.shields.io/badge/Java-10%25-ED8B00?style=flat&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=flat&logo=python&logoColor=white)
+- ![SQL/MongoDB](https://img.shields.io/badge/SQL%2FMongoDB-5%25-4DB33D?style=flat&logo=mongodb&logoColor=white)
+- ![AWS/Infra](https://img.shields.io/badge/Infra(AWS%2FDocker)-5%25-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ✨ Obrigado por visitar meu perfil!
