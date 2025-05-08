@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** apaixonado por tecnologia, aprendizado contínuo e inovação. Tenho interesse em áreas como **Cloud Computing**, **Banco de Dados** e **Qualidade de Software**.  
+Sou formado em Bacharel em **Ciências da Computação** apaixonado por tecnologia, aprendizado contínuo e inovação. Tenho interesse em áreas como **Cloud Computing**, **Banco de Dados** e **Qualidade de Software**.  
 Estou sempre buscando aprender novas ferramentas e linguagens para me tornar um profissional mais completo e preparado para os desafios do mercado de tecnologia.
 
 ---
